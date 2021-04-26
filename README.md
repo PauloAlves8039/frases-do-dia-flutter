@@ -1,4 +1,4 @@
-<h1 align="center">:bulb: Frases do Dia Flutter</h1>
+<h1 align="center">:bulb: Frases do Dia</h1>
 
 <p align="center">
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-v1.17.5-blue"></a>
