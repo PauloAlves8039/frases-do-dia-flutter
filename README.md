@@ -7,7 +7,7 @@
 
 ## :computer: Projeto
 
-Aplicação mobile para exibição de frases motivacionais utilizando o Framework Flutter, código fonte do projeto foi desenvolvido com baso no curso 
+Aplicação mobile para exibição de frases motivacionais utilizando o Framework Flutter com a linguagem Dart, código fonte do projeto foi desenvolvido com base no curso 
 [Desenvolvimento Android e IOS com Flutter 2020 -Crie 15 Apps](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/).
 
 ## :wrench: Recursos Utilizados
